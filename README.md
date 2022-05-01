@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MZerrath
+- 👋 Hello, my name is Matthew Zerrath (@MZerrath)
 - 👀 I’m interested in creating video games and memorable narrative experiences.
 - 🌱 I’m currently learning to create video games with the Unity Engine and how to program in C#.
 - 💞️ I’m looking to collaborate on video game and narrative projects with the Unity Engine.
